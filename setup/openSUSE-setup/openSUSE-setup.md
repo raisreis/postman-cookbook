@@ -1,4 +1,5 @@
 # ---
+[//]: # (@pubkey:[202307291231])
 
 
 # openSUSE setup
